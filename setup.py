@@ -10,7 +10,7 @@ setup(
     packages=find_packages(),
     install_requires=['requests==2.32.3'],
     license="MIT",
-    url="https://github.com/nilaysarma/zenquotespy",
+    url="https://zenquotespy.pages.dev",
     classifiers=[
         "Development Status :: 5 - Production/Stable",
         "Intended Audience :: Developers",

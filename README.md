@@ -27,4 +27,4 @@ print(quote)
 ```
 
 ## More details
-Read the [documentation page](https://google.com) to know more about the package.
+Read the [documentation page](https://zenquotespy.pages.dev) to know more about the package.
