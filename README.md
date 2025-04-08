@@ -1,5 +1,10 @@
 # ZenquotesPy
 
+[![PyPI - Version](https://img.shields.io/pypi/v/zenquotespy)](https://pypi.org/project/zenquotespy/)
+[![PyPI - License](https://img.shields.io/pypi/l/zenquotespy)](https://pypi.org/project/isoddeven/)
+[![GitHub deployments](https://img.shields.io/github/deployments/nilaysarma/zenquotespy/release)](https://github.com/nilaysarma/zenquotespy/deployments/release)
+[![PyPI - Status](https://img.shields.io/pypi/status/zenquotespy)](https://pypi.org/project/zenquotespy/)
+
 ZenquotesPy is a lightweight Python package that provides easy access to motivational and inspirational quotes from the ZenQuotes.io API.
 
 Whether you're building a chatbot, a productivity app, a daily quote generator, or just want a little inspiration in your terminal — this package makes it effortless. It is published as a Python package named `zenquotespy` on [PyPI](https://pypi.org/project/zenquotespy).
