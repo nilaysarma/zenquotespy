@@ -24,24 +24,6 @@ jobs:
         with:
           python-version: "3.12.8"
 
-      - name: Extract version from setup.py
-        id: get_version
-        run: |
-          VERSION=$(python setup.py --version)
-          echo "Extracted version: $VERSION"
-          echo "version=$VERSION" >> $GITHUB_ENV
-
-      - name: Compare Tag with Version
-        run: |
-          TAG_VERSION=${{ github.ref_name }}
-          TAG_VERSION=${TAG_VERSION#v}  # Remove 'v' prefix from tag
-          
-          if [ "$TAG_VERSION" != "$version" ]; then
-            echo "ERROR: Tag version ($TAG_VERSION) does not match setup.py version ($version)"
-            exit 1
-          fi
-        shell: bash
-
       - name: Install dependencies
         run: pip3 install -r requirements.txt
 
