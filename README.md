@@ -1,6 +1,7 @@
 # ZenquotesPy
 
 [![PyPI - Version](https://img.shields.io/pypi/v/zenquotespy)](https://pypi.org/project/zenquotespy/)
+[![Pepy Total Downloads](https://img.shields.io/pepy/dt/zenquotespy)](https://pypi.org/project/zenquotespy/)
 [![PyPI - License](https://img.shields.io/pypi/l/zenquotespy)](https://pypi.org/project/isoddeven/)
 [![GitHub deployments](https://img.shields.io/github/deployments/nilaysarma/zenquotespy/release)](https://github.com/nilaysarma/zenquotespy/deployments/release)
 [![PyPI - Status](https://img.shields.io/pypi/status/zenquotespy)](https://pypi.org/project/zenquotespy/)

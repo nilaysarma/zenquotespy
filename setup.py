@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='zenquotespy',
-    version='0.2.1',
+    version='0.2.2',
     description='ZenquotesPy is a lightweight Python package that provides easy access to motivational and inspirational quotes from the ZenQuotes.io API.',
     long_description=open("README.md", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
@@ -21,7 +21,7 @@ setup(
         "Topic :: Software Development :: Libraries :: Python Modules",
     ],
     project_urls={
-        "Documentation": "https://zenquotespy.pages.dev",
+        "Documentation": "https://zenquotespy.pages.dev/getting-started",
         "Repository": "https://github.com/nilaysarma/zenquotespy",
         "Release Notes": "https://github.com/nilaysarma/zenquotespy/releases/latest",
     }
